@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map for L298lib
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+L298N_Motor KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+run	KEYWORD2
+setSpeed	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+FORWARD	LITERAL1
+BACKWARD	LITERAL1
+RELEASE	LITERAL1
